@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">projet_dev_mobile</string>
+    <string name="title_menu_bike">Vélos</string>
+    <string name="title_menu_park">Parking</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nom_station">Nom Station</string>
+    <string name="nom_parking">Nom Parking</string>
+    <string name="buttonOpenMapText">Open Map</string>
+    <string name="infos_cardView_item">🚲3 ❌9 ✅52</string>
+    <string name="title_activity_station_maps">StationMapsActivity</string>
+    <string name="park_distance_holder">distance</string>
+</resources>
